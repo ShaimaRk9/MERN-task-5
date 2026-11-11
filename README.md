@@ -132,10 +132,14 @@ npm run dev
 | GET | `/api/admin/stats` | Admin statistics |
 | GET | `/api/admin/users` | Get registered users |
 
-## Security Note
-
-Never upload `.env` files, database credentials, JWT secrets, or private keys to GitHub.
-
 ## Author
 
-Add your name and project details here.
+Project Name: MERN Multi-User Notes Management System
+
+Description: A MERN-stack web application developed using MongoDB, Express.js, React.js, and Node.js. It provides secure user authentication, personal note management, search, tag filtering, pagination, and role-based admin functionality.
+
+Technologies Used: MongoDB, Express.js, React.js, Node.js, JWT, Axios, CSS.
+
+Key Contribution: Developed user and admin functionalities, REST APIs, authentication, authorization, and responsive frontend interfaces.
+
+Author Name: Shaima Khurshid Rayen
